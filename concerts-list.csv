@@ -1,0 +1,190 @@
+ID,Date,Artiste,Salle,Ville,Code postal
+1a,2012-07-09,Kenny Wayne Shepherd,Le Trianon,Paris,75018
+1b,2012-07-09,Gov’t Mule,Le Trianon,Paris,75018
+2a,2012-11-13,Jimix,Zenith de Paris,Paris,75019
+2b,2012-11-13,Deep Purple,Zenith de Paris,Paris,75019
+3a,2013-06-06,Los Lobos,Bercy,Paris,75012
+3b,2013-06-06,Neil Young,Bercy,Paris,75012
+4a,2013-12-03,Uncle Acid & The Deadbeats,Bercy,Paris,75012
+4b,2013-12-03,Black Sabbath,Bercy,Paris,75012
+5a,2014-04-08,Black Moth,La Maroquinerie,Paris,75020
+5b,2014-04-08,Uncle Acid & The Deadbeats,La Maroquinerie,Paris,75020
+6a,2014-08-19,Encore Floyd,Jardin des Enfeus,Sarlat-la-Canéda,24200
+7a,2014-10-24,Orange Goblin,Flèche d’Or,Paris,75020
+7b,2014-10-24,Saint Vitus,Flèche d’Or,Paris,75020
+8a,2015-09-08,Sons of Kemet,Grande Halle de la Villette,Paris,75019
+8b,2015-09-08,"Archie Shepp, The Heliocentrics & Melvin van Peebles",Grande Halle de la Villette,Paris,75019
+9a,2016-06-23,Joscho Stephan,Parc du Château,Fontainebleau,77300
+9b,2016-06-23,Calypso Rose,Parc du Château,Fontainebleau,77300
+9c,2016-06-23,Ibrahim Maalouf,Parc du Château,Fontainebleau,77300
+10a,2016-06-25,Eva sur Seine,Parc du Château,Fontainebleau,77300
+10b,2016-06-25,Brady Winterstein,Parc du Château,Fontainebleau,77300
+10c,2016-06-25,Gregory Porter,Parc du Château,Fontainebleau,77300
+10d,2016-06-25,Kamasi Washington,Parc du Château,Fontainebleau,77300
+10e,2016-06-25,Monsieur Périné,Parc du Château,Fontainebleau,77300
+11a,2016-11-12,Mia Karlsson,New Morning,Paris,75010
+11b,2016-11-12,Tony Joe White,New Morning,Paris,75010
+12,2016-12-03,King Crimson,Salle Pleyel,Paris,75008
+13a,2017-07-06,Stéphane Wrembel,Parc du Château,Fontainebleau,77300
+13b,2017-07-06,Avishai Cohen,Parc du Château,Fontainebleau,77300
+13c,2017-07-06,Asaf Avidan,Parc du Château,Fontainebleau,77300
+14a,2017-07-07,Youn Sun Nah,Parc du Château,Fontainebleau,77300
+14b,2017-07-07,Django Memories Project,Parc du Château,Fontainebleau,77300
+14c,2017-07-07,Larry Graham & Graham Central Station,Parc du Château,Fontainebleau,77300
+15a,2017-07-08,Tchao Badjo,Parc du Château,Fontainebleau,77300
+15b,2017-07-08,Robin Nolan (feat. Jan Akkerman),Parc du Château,Fontainebleau,77300
+15c,2017-07-08,"Jean-Luc Ponty, Biréli Lagrène & Kyle Eastwood",Parc du Château,Fontainebleau,77300
+15d,2017-07-08,Dhafer Youssef,Parc du Château,Fontainebleau,77300
+15e,2017-07-08,Lucky Chops,Parc du Château,Fontainebleau,77300
+16a,2017-07-09,Bokanté,Parc du Château,Fontainebleau,77300
+16b,2017-07-09,Les Doigts de l’Homme,Parc du Château,Fontainebleau,77300
+16c,2017-07-09,Roberto Fonseca,Parc du Château,Fontainebleau,77300
+16d,2017-07-09,Trombone Shorty & Orleans Avenue,Parc du Château,Fontainebleau,77300
+17,2017-10-30,Gov’t Mule,Le Trianon,Paris,75018
+18a,2018-06-09,Jessie Lee & The Alchemists,Olympia,Paris,75009
+18b,2018-06-09,Jeff Beck,Olympia,Paris,75009
+19a,2018-07-05,Sansverino,Parc du Château,Fontainebleau,77300
+19b,2018-07-05,Cory Henry and the Funk Apostles,Parc du Château,Fontainebleau,77300
+19c,2018-07-05,George Benson,Parc du Château,Fontainebleau,77300
+20a,2018-07-06,Mathias Lévy,Parc du Château,Fontainebleau,77300
+20b,2018-07-06,"Biréli Lagrène, Stochelo Rosenberg, William Brunard",Parc du Château,Fontainebleau,77300
+20c,2018-07-06,Gary Clark Jr.,Parc du Château,Fontainebleau,77300
+21a,2018-07-07,Romain Vuillemin Quartet,Parc du Château,Fontainebleau,77300
+21b,2018-07-07,Hugh Coltman,Parc du Château,Fontainebleau,77300
+21c,2018-07-07,Fapy Lavertin – Evan Christopher Quartet,Parc du Château,Fontainebleau,77300
+21d,2018-07-07,Sons of Kemet,Parc du Château,Fontainebleau,77300
+21e,2018-07-07,Seun Kuti,Parc du Château,Fontainebleau,77300
+22a,2018-07-08,Les élèves du CMDL saluent Didier Lockwood avec Fiona Monbet & David Enhco,Parc du Château,Fontainebleau,77300
+22b,2018-07-08,Gismo Graf – Amati Schmitt – Brady Winterstein Quintet,Parc du Château,Fontainebleau,77300
+22c,2018-07-08,Marcus Miller,Parc du Château,Fontainebleau,77300
+22d,2018-07-08,Snarky Puppy,Parc du Château,Fontainebleau,77300
+23,2018-08-01,Manish & Goypal,Le Troubadour,Metz,57000
+24,2019-05-15,Sun Ra Arkestra,New Morning,Paris,75010
+25,2019-06-26,Magma,Philharmonie de Paris,Paris,75019
+26a,2019-07-04,Gwen Cahue Trio,Parc du Château,Fontainebleau,77300
+26b,2019-07-04,Delvon Lamarr Organ Trio,Parc du Château,Fontainebleau,77300
+26c,2019-07-04,Parov Stelar,Parc du Château,Fontainebleau,77300
+27a,2019-07-05,Romane & Le Paris Swing Orchestra,Parc du Château,Fontainebleau,77300
+27b,2019-07-05,Mayra Andrade,Parc du Château,Fontainebleau,77300
+27c,2019-07-05,Maravillas de Mali,Parc du Château,Fontainebleau,77300
+27d,2019-07-05,Jupiter & Okwess,Parc du Château,Fontainebleau,77300
+28a,2019-07-06,La Verdine,Parc du Château,Fontainebleau,77300
+28b,2019-07-06,Tchavolo Schmitt Quartet,Parc du Château,Fontainebleau,77300
+28c,2019-07-06,Cyrille Aimée,Parc du Château,Fontainebleau,77300
+28d,2019-07-06,Thomas Dutronc,Parc du Château,Fontainebleau,77300
+28e,2019-07-06,Tom Misch,Parc du Château,Fontainebleau,77300
+29a,2019-07-07,Marc Berthoumieux,Parc du Château,Fontainebleau,77300
+29b,2019-07-07,Gonzalo Bergara « Django meets Piazolla » Featuring Leah Zeger,Parc du Château,Fontainebleau,77300
+29c,2019-07-07,A Christian McBride Situation,Parc du Château,Fontainebleau,77300
+29d,2019-07-07,Ibrahim Maalouf Invites Haidouti Orkestar,Parc du Château,Fontainebleau,77300
+30,2020-01-22,Lucky Peterson,La Laiterie,Strasbourg,67000
+31,2020-03-04,DJ Krush,La Laiterie,Strasbourg,67000
+32,2021-07-21,Billy Cobham,New Morning,Paris,75010
+33,2021-10-10,Kenny Garrett Quintet,Halle aux Grains,Toulouse,31000
+34,2021-10-21,Jazz at Lincoln Center Orchestra with Wynton Marsalis ,Halle aux Grains,Toulouse,31000
+35a,2022-07-12,????,Le Bikini,Ramonville,31520
+35b,2022-07-12,Steve Vai,Le Bikini,Ramonville,31520
+36a,2022-11-02,Porcupine Tree,Zenith de Paris,Paris,75019
+37a,2023-02-17,Kenobit,Conexxion Live,Toulouse,31000
+37b,2023-02-17,Master Boot Record,Conexxion Live,Toulouse,31000
+38a,2023-04-01,Arman Méliès,Zenith de Toulouse,Toulouse,31000
+38b,2023-04-01,Hubert Félix Thiéfaine,Zenith de Toulouse,Toulouse,31000
+39a,2023-05-07,West Road,La Puce A l’Oreille,Riom,63200
+39b,2023-05-07,Wishbone Ash,La Puce A l’Oreille,Riom,63200
+40a,2023-06-22,Edouard Pennes présente Génération Django,Parc du Château,Fontainebleau,77300
+40b,2023-06-22,GoGo Penguin,Parc du Château,Fontainebleau,77300
+40c,2023-06-22,Gregory Porter,Parc du Château,Fontainebleau,77300
+41a,2023-06-23,Giacomo Smith & Mozes Rosenberg Quartet,Parc du Château,Fontainebleau,77300
+41b,2023-06-23,Avishai Cohen,Parc du Château,Fontainebleau,77300
+41c,2023-06-23,Roberto Fonseca,Parc du Château,Fontainebleau,77300
+42a,2023-06-24,Larius Apostol Quartet,Parc du Château,Fontainebleau,77300
+42b,2023-06-24,Ludovic Louis,Parc du Château,Fontainebleau,77300
+42c,2023-06-24,Django 70th Project,Parc du Château,Fontainebleau,77300
+42d,2023-06-24,Yuri Buenaventura & Roberto Fonseca,Parc du Château,Fontainebleau,77300
+42e,2023-06-24,Fatoumata Diawara,Parc du Château,Fontainebleau,77300
+43a,2023-06-25,Martin Taylor & Ulf Walkenius,Parc du Château,Fontainebleau,77300
+43b,2023-06-25,Don Vink’s Parisien Quartet,Parc du Château,Fontainebleau,77300
+43c,2023-06-25,Matthis Pascaud & Hugh Coltman,Parc du Château,Fontainebleau,77300
+43d,2023-06-25,Dutronc – Rosenberg – Gresset Trio,Parc du Château,Fontainebleau,77300
+43e,2023-06-25,Hamilton de Holanda Trio,Parc du Château,Fontainebleau,77300
+43f,2023-06-25,Dee Dee Bridgewater & The Amazing Keystone Band,Parc du Château,Fontainebleau,77300
+44,2023-10-21,Leprous,Le Forum,Vauréal,95490
+45a,2023-10-30,ho99o9,Olympia,Paris,75009
+45b,2023-10-30,Carpenter Brut,Olympia,Paris,75009
+45c,2023-10-30,Perturbator,Olympia,Paris,75009
+46a,2024-05-31,Rover,Arènes de Nimes,Nimes,30000
+46b,2024-05-31,Eric Clapton,Arènes de Nimes,Nimes,30000
+47a,2024-06-25,Grafiti,Le Forum,Vauréal,95490
+47b,2024-06-25,Polyphia,Le Forum,Vauréal,95490
+48a,2024-06-27,Marcia Bamberg Swing Quartet ,Parc du Château,Fontainebleau,77300
+48b,2024-06-27,Hono Winterstein Quartet,Parc du Château,Fontainebleau,77300
+48c,2024-06-27,Snorre Kirk European Quartet,Parc du Château,Fontainebleau,77300
+48d,2024-06-27,Jalen Ngonda,Parc du Château,Fontainebleau,77300
+48e,2024-06-27,Rodrigo y Gabriela,Parc du Château,Fontainebleau,77300
+49a,2024-06-28,Boulou & Elios Ferré,Parc du Château,Fontainebleau,77300
+49b,2024-06-28,Fanou Torracinta Quartet,Parc du Château,Fontainebleau,77300
+49c,2024-06-28,Isaiah Collier,Parc du Château,Fontainebleau,77300
+49d,2024-06-28,Melody Gardot,Parc du Château,Fontainebleau,77300
+50a,2024-06-29,Louis Matute Large Ensemble,Parc du Château,Fontainebleau,77300
+50b,2024-06-29,Ladaniva,Parc du Château,Fontainebleau,77300
+50c,2024-06-29,Angelo Debarre – manoir de mes rêves,Parc du Château,Fontainebleau,77300
+50d,2024-06-29,Lehmanns Brothers,Parc du Château,Fontainebleau,77300
+50e,2024-06-29,Ibrahim Maalouf & The Trumpets of Michel-Ange,Parc du Château,Fontainebleau,77300
+51a,2024-06-30,Maria Pascual & the King of Gypsies,Parc du Château,Fontainebleau,77300
+51b,2024-06-30,Les Doigts de l’Homme,Parc du Château,Fontainebleau,77300
+51c,2024-06-30,Sissoko – Segal – Parisien – Peirani,Parc du Château,Fontainebleau,77300
+51d,2024-06-30,Black Pumas,Parc du Château,Fontainebleau,77300
+52a,2024-07-09,Gaëlle Buswel,Zenith de Paris,Paris,75019
+52b,2024-07-09,ZZ Top,Zenith de Paris,Paris,75019
+53a,2024-09-01,Alina Bzhezhinska & HipHarpCollective feat. Tony Kofi & Jay Phelps,Le Périphérique,Paris,75019
+53b,2024-09-01,Genevieve Artadi (Knower),Le Périphérique,Paris,75019
+53c,2024-09-01,Alfa Mist,Le Périphérique,Paris,75019
+54a,2024-11-01,Jefferson Starship,Zenith de Paris,Paris,75019
+54b,2024-11-01,Deep Purple,Zenith de Paris,Paris,75019
+55,2024-11-23,Dream Theater,Adidas Arena,Paris,75018
+56,2024-12-04,"Dave Herrero, Sheryl Youngblood & Stephen Hull Experience",La Coopérative de Mai,Clermont-Ferrand,63000
+57a,2025-02-05,Dirty Deep,La Coopérative de Mai,Clermont-Ferrand,63000
+57b,2025-02-05,Christone « Kingfish » Ingram,La Coopérative de Mai,Clermont-Ferrand,63000
+58a,2025-03-15,Alexandre Delano,La Coopérative de Mai,Clermont-Ferrand,63000
+58b,2025-03-15,Nouvelle Vague,La Coopérative de Mai,Clermont-Ferrand,63000
+59,2025-04-11,Magma,Amphitéatre 3000,Lyon,69006
+60,2025-04-26,Ghost,LDLC Arena,Décines-Charpieu,69150
+61a,2025-05-02,Gut’s,L’Arlequin,Mozac,63200
+61b,2025-05-02,Human Zoo,L’Arlequin,Mozac,63200
+61c,2025-05-02,Michael Schenker,L’Arlequin,Mozac,63200
+62,2025-05-31,Bruce Springsteen & The E Street Band,Orange Vélodrome,Marseille,13008
+63,2025-06-29,Herbie Hancock,Place de la Défense,Puteaux,92800
+64a,2025-07-20,Avatar,La Défense Arena,Nanterre,92000
+64b,2025-07-20,Iron Maiden,La Défense Arena,Nanterre,92000
+65a,2025-09-30,Iotunn,Le Bataclan,Paris,75011
+65b,2025-09-30,Equilibrium,Le Bataclan,Paris,75011
+65c,2025-09-30,Soen,Le Bataclan,Paris,75011
+65d,2025-09-30,Dark Tranquility,Le Bataclan,Paris,75011
+66a,2025-10-15,Monsieur Reno,La Puce A l’Oreille,Riom,63200
+66b,2025-10-17,The Silencers,La Puce A l’Oreille,Riom,63200
+67a,2025-10-23,Dado Moroni & Stéphane Belmondo ,Maison de la Culture,Clermont-Ferrand,63000
+67b,2025-10-23,Dave Holland Trio (Jaleel Shaw + Nasheet Waits),Maison de la Culture,Clermont-Ferrand,63000
+68a,2025-11-28,Harlem-Bohême,L’Avan.C,Royat,63130
+68b,2025-11-28,Les Doigts de l’Homme,L’Avan.C,Royat,63131
+69a,2025-12-01,Michele Gori + Yannick Chambre,La Coopérative de Mai,Clermont-Ferrand,63000
+69b,2025-12-01,Avishai Cohen,La Coopérative de Mai,Clermont-Ferrand,63000
+70a,2025-12-05,Neckbreaker,Zenith d’Auvergne,Cournon d’Auvergne,63800
+70b,2025-12-05,Comeback Kid,Zenith d’Auvergne,Cournon d’Auvergne,63800
+70c,2025-12-05,Gojira,Zenith d’Auvergne,Cournon d’Auvergne,63800
+71a,2026-03-13,Younger Spirits,109 – L’Embarcadère,Montluçon,3100
+71b,2026-03-13,Bernard Allison,109 – L’Embarcadère,Montluçon,3100
+72a,2026-03-18,Grandma’s Ashes,La Coopérative de Mai,Clermont-Ferrand,63000
+72b,2026-03-18,Monkey on Mars (Mars Red Sky + Monkey 3),La Coopérative de Mai,Clermont-Ferrand,63000
+73a,2026-03-20,My Dilligence,Le Trabendo,Paris,75019
+73b,2026-03-20,Villagers of Ioannina City,Le Trabendo,Paris,75019
+74,2026-04-25,Joe Bonamassa,La Seine Musicale,Boulogne-Billancourt,92100
+75,2026-06-01,Goose,Élysée-Montmartre,Paris,75018
+76a,2026-06-19,Otoboke Beaver,La Défense Arena,Nanterre,92000
+76b,2026-06-19,Inhaler,La Défense Arena,Nanterre,92000
+76c,2026-06-19,Foo Fighters,La Défense Arena,Nanterre,92000
+77a,2026-06-26,Jared James Nicholas,Le Bataclan,Paris,75011
+77b,2026-06-26,George Thorogood & The Destroyers,Le Bataclan,Paris,75011
+78a,2026-07-09,Mei Semones,Accor Arena,Paris,75012
+78b,2026-07-09,Vulfpeck,Accor Arena,Paris,75012
+79a,2026-08-29,Dolphin Hyperspace,Grande Halle de la Villette,Paris,75019
+79b,2026-08-29,Snarky Puppy & Metropole Orkest,Grande Halle de la Villette,Paris,75019
