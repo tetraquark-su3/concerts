@@ -162,7 +162,7 @@ ID,Date,Artiste,Salle,Ville,Code postal
 65d,2025-09-30,Dark Tranquility,Le Bataclan,Paris,75011
 66a,2025-10-15,Monsieur Reno,La Puce A l’Oreille,Riom,63200
 66b,2025-10-17,The Silencers,La Puce A l’Oreille,Riom,63200
-67a,2025-10-23,Dado Moroni & Stéphane Belmondo ,Maison de la Culture,Clermont-Ferrand,63000
+67a,2025-10-23,Dado Moroni & Stéphane Belmondo,Maison de la Culture,Clermont-Ferrand,63000
 67b,2025-10-23,Dave Holland Trio (Jaleel Shaw + Nasheet Waits),Maison de la Culture,Clermont-Ferrand,63000
 68a,2025-11-28,Harlem-Bohême,L’Avan.C,Royat,63130
 68b,2025-11-28,Les Doigts de l’Homme,L’Avan.C,Royat,63131
@@ -194,3 +194,4 @@ ID,Date,Artiste,Salle,Ville,Code postal
 81a,2026-10-13,Hungin',Jack Jack, Bron,69500
 81b,2026-10-13,Dopelord,Jack Jack, Bron,69500
 81c,2026-10-13,Monolord,Jack Jack, Bron,69500
+82,2026-10-20,Kenny Garrett Quintet,Maison de la Culture,Clermont-Ferrand,63000
